@@ -39,7 +39,7 @@ nav ul li a{
 .active {
     background-color: #d9782d;
     color: white;
-    box-shadow: #777;
+    
 }
 nav ul li a:hover{
     color: #f9004d;
@@ -216,7 +216,6 @@ footer{/*Style for the footer which is fixed to the position so that the content
     color: #4267B2;
     transition: 0.4s
 }
-/*css for the gallery statrs from here*/
 /*css for the gallery statrs from here*/
 
 body {
